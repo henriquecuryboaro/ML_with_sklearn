@@ -1,3 +1,5 @@
+#Dataset released on https://www.kaggle.com/datasets/nikhil7280/weather-type-classification/code?datasetId=5268544
+
 import pandas as pd
 import numpy as np 
 import matplotlib.pyplot as plt
